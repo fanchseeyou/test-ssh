@@ -1,0 +1,7 @@
+E:\tempBuild\work\c#\test\BIN2TXT\BIN2TXT\bin\Debug\BIN2TXT.exe
+E:\tempBuild\work\c#\test\BIN2TXT\BIN2TXT\bin\Debug\BIN2TXT.pdb
+E:\tempBuild\work\c#\test\BIN2TXT\BIN2TXT\obj\x86\Debug\BIN2TXT.BIN2TXT.resources
+E:\tempBuild\work\c#\test\BIN2TXT\BIN2TXT\obj\x86\Debug\BIN2TXT.Properties.Resources.resources
+E:\tempBuild\work\c#\test\BIN2TXT\BIN2TXT\obj\x86\Debug\BIN2TXT.csproj.GenerateResource.Cache
+E:\tempBuild\work\c#\test\BIN2TXT\BIN2TXT\obj\x86\Debug\BIN2TXT.exe
+E:\tempBuild\work\c#\test\BIN2TXT\BIN2TXT\obj\x86\Debug\BIN2TXT.pdb
